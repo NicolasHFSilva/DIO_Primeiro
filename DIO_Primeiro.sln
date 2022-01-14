@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO_Primeiro", "DIO_Primeiro\DIO_Primeiro.csproj", "{602A0D33-257B-43EF-9287-868187958BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO_Primeiro", "DIO_Primeiro\DIO_Primeiro.csproj", "{602A0D33-257B-43EF-9287-868187958BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO_PrimeiroTests1", "DIO_PrimeiroTests1\DIO_PrimeiroTests1.csproj", "{65C54ABD-DE62-4957-8091-9692F8A7E46E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{602A0D33-257B-43EF-9287-868187958BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{602A0D33-257B-43EF-9287-868187958BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{602A0D33-257B-43EF-9287-868187958BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C54ABD-DE62-4957-8091-9692F8A7E46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C54ABD-DE62-4957-8091-9692F8A7E46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C54ABD-DE62-4957-8091-9692F8A7E46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C54ABD-DE62-4957-8091-9692F8A7E46E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
