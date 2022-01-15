@@ -27,3 +27,9 @@
         4.2 Encerramento do curso
 
         4.3 Certifique seu conhecimento
+
+
+
+## Atualização:red_circle:
+
+Utilizei o mesmo projeto para realizar o módulo 'Introdução ao C# e .Net'
